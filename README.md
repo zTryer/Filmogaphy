@@ -15,19 +15,19 @@ source .venv/bin/activate  # Для Linux/Mac
 
 3. Встановлення залежностей
 
-`pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 4. Запуск FastAPI-сервера
 
-`uvicorn main:app --reload
+`uvicorn main:app --reload`
 
 📖 Документація API
 
 Автодокументація доступна за такими посиланнями:
 
-Swagger UI: `http://127.0.0.1:8080/docs
+Swagger UI: `http://127.0.0.1:8080/docs`
 
-ReDoc: `http://127.0.0.1:8080/redoc
+ReDoc: `http://127.0.0.1:8080/redoc`
 
 
 
