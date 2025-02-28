@@ -8,11 +8,11 @@
 `cd <repo_folder>`
 
 2. Створення віртуального середовища
-
-`python -m venv .venv`
-`source .venv/bin/activate  # Для Linux/Mac`
-`.venv\Scripts\activate    # Для Windows`
-
+```
+python -m venv .venv
+source .venv/bin/activate  # Для Linux/Mac
+.venv\Scripts\activate    # Для Windows
+```
 3. Встановлення залежностей
 
 `pip install -r requirements.txt`
