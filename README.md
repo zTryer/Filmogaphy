@@ -4,14 +4,14 @@
 
 1. Клонування репозиторію
 
-git clone <repo_url>
-cd <repo_folder>
+`git clone <repo_url>`
+`cd <repo_folder>`
 
 2. Створення віртуального середовища
 
-python -m venv .venv
-source .venv/bin/activate  # Для Linux/Mac
-.venv\Scripts\activate    # Для Windows
+`python -m venv .venv`
+`source .venv/bin/activate  # Для Linux/Mac`
+`.venv\Scripts\activate    # Для Windows`
 
 3. Встановлення залежностей
 
@@ -25,9 +25,9 @@ source .venv/bin/activate  # Для Linux/Mac
 
 Автодокументація доступна за такими посиланнями:
 
-Swagger UI: `http://127.0.0.1:8080/docs`
+Swagger UI: `http://127.0.0.1:8000/docs`
 
-ReDoc: `http://127.0.0.1:8080/redoc`
+ReDoc: `http://127.0.0.1:8000/redoc`
 
 
 
